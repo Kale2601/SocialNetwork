@@ -1,21 +1,21 @@
-id, name and surname, gender, relation
-0, Ana Marija Gjurcinova, f, 3
-1, Sofija Todoric, f, 3
-2, Dina Boskovic, f, 6
-3, Nadja Velickovic, f, 4
-4, Sonja Vukotic, f, 4
-5, Emir Custovic, m, 1
-6, Nadja Maletic, f, 4
-7, Ana Legeza, f, 1
-8, Visnja Kasagic, f, 6
-9, Katarina Antonic, f, 4
-10, Ivana Ninkovic, f, 4
-11, Dimitrije Sekulovic, m, 6
-12, Ana Popovic, f, 6
-13, Marko Opacic, m, 6
-14, Lama Saqqour, f, 6
-15, Katarina Nikina, f, 6
-16, Andjela Velickovic, f, 4
-17, Marija Mitrovski, f, 4
-18, Marina Barjaktarovic, f, 6
-19, Katarina Zivkovic, f, 4
+id,name_and_surname,gender,relation
+0,Ana Marija Gjurcinova,f,3
+1,Sofija Todoric,f,3
+2,Dina Boskovic,f,6
+3,Nadja Velickovic,f,4
+4,Sonja Vukotic,f,4
+5,Emir Custovic,m,1
+6,Nadja Maletic,f,4
+7,Ana Legeza,f,1
+8,Visnja Kasagic,f,6
+9,Katarina Antonic,f,4
+10,Ivana Ninkovic,f,4
+11,Dimitrije Sekulovic,m,6
+12,Ana Popovic,f,6
+13,Marko Opacic,m,6
+14,Lama Saqqour,f,6
+15,Katarina Nikina,f,6
+16,Andjela Velickovic,f,4
+17,Marija Mitrovski,f,4
+18,Marina Barjaktarovic,f,6
+19,Katarina Zivkovic,f,4
