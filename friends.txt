@@ -148,7 +148,7 @@ id,name_and_surname,gender,relation
 146,Luka Radosavljevic,m,2
 147,Stefan Miloradovic,m,2
 148,Mila Zivkovic,f,2
-149,Andrea Puskas,f,2,
+149,Andrea Puskas,f,2
 150,Matej Tomic,m,6
 151,Milica Jelic,f,6
 152,Lucia Kajanova,f,5
