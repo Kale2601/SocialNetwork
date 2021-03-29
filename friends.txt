@@ -239,7 +239,7 @@ id,name_and_surname,gender,relation,hometown
 237,Son Goku,m,1,1
 238,Milos Selakovic,m,3,0
 239,Nemanja Topalovic,m,0,0
-240,Jovana Spasenovic,f,6,0
+240,Jovana Spasenovic,f,0,0
 241,Zinaida Butovskaya,f,6,0
 242,Milos Vidakovic,m,6,1
 243,Sandra Kostic,f,3,0
