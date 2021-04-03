@@ -31,7 +31,7 @@ id,name_and_surname,gender,relation,hometown,education_level
 29,Marko Vukic,m,2,Belgrade,2
 30,Mihailo Grujic,m,2,Belgrade,2
 31,Natasha Mladenovska,f,6,Skopje,2
-32,Maja Milosevic,f,Herceg Novi,2
+32,Maja Milosevic,f,0,Herceg Novi,2
 33,Milija Micko Bjelica,m,4,Vrbas,2
 34,Uros Radulovic,m,4,Belgrade,2
 35,Ivana Govedarica,f,6,Belgrade,0
