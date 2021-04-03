@@ -1,0 +1,334 @@
+id,name_and_surname,gender,relation,hometown,education_level
+0,Ana Marija Gjurcinova,f,3,Skopje,2
+1,Sofija Todoric,f,3,Belgrade,2
+2,Dina Boskovic,f,6,Belgrade,2
+3,Nadja Velickovic,f,4,Belgrade,1
+4,Sonja Vukotic,f,4,Belgrade,2
+5,Emir Custovic,m,1,Belgrade,1
+6,Nadja Maletic,f,4,Belgrade,2
+7,Ana Legeza,f,1,Belgrade,2
+8,Visnja Kasagic,f,6,Gradiska,1
+9,Katarina Antonic,f,4,Belgrade,2
+10,Ivana Ninkovic,f,4,Trebinje,2
+11,Dimitrije Sekulovic,m,6,Belgrade,2
+12,Ana Popovic,f,6,Belgrade,2
+13,Marko Opacic,m,6,Belgrade,2
+14,Lama Saqqour,f,6,Homs,2
+15,Katarina Nikina,f,6,Not specified,0
+16,Andjela Velickovic,f,4,Belgrade,2
+17,Marija Mitrovski,f,4,Belgrade,2
+18,Marina Barjaktarovic,f,6,Vrsac,2
+19,Katarina Zivkovic,f,4,Belgrade,2
+20,Valentina Simic,f,3,Aleksandrovac,2
+21,Djordje Stojanovic,m,6,Belgrade,2
+22,Marko Savicevic,m,6,Moscow,0
+23,Bojana Bujakovic,f,3,Prijepolje,2
+24,Faxriddin Tojiboyev,m,6,Tashkent,2
+25,Mila Petrovic,f,4,Belgrade,2
+26,Mina Mastilovic,f,4,Belgrade,2
+27,Irina Petrovic,f,4,Nis,2
+28,Ana Merkle,f,3,Belgrade,2
+29,Marko Vukic,m,2,Belgrade,2
+30,Mihailo Grujic,m,2,Belgrade,2
+31,Natasha Mladenovska,f,6,Skopje,2
+32,Maja Milosevic,f,Herceg Novi,2
+33,Milija Micko Bjelica,m,4,Vrbas,2
+34,Uros Radulovic,m,4,Belgrade,2
+35,Ivana Govedarica,f,6,Belgrade,0
+36,Ekaterina Alytbregina,f,5,Saint Petersburg,2
+37,Mirka Cavojska,f,5,Komarno,2
+38,Branka Kujovic Rankov,f,2,Perlez,2
+39,Gagz Lukic,f,6,Not specified,0
+40,Filip Milisavljevic,m,4,Belgrade,2
+41,Milos Arsic,m,3,Belgrade,2
+42,Nevena Juric,f,3,Smederevo,2
+43,Isidora Rackov,f,1,Belgrade,2
+44,Milka Stojcevic,f,6,Zadar,0
+45,Teodora Cica Stepanovic,f,2,Belgrade,2
+46,Lazar Savovic,m,2,Belgrade,2
+47,Gordana Mircetic,f,4,Belgrade,0
+48,Alyona Tarasova,f,5,Sertolovo,2
+49,Mia Hadzic,f,4,Belgrade,2
+50,Anamarija Jovanovska,f,6,Skopje,1
+51,Alexandra Bogdanovic,f,1,Belgrade,2
+52,Filip Brocic,m,3,Belgrade,2
+53,Zikica Lukic,m,3,Uzice,2
+54,Ana Petrovic,f,3,Belgrade,2
+55,Filip Mandic,m,2,Belgrade,2
+56,Stefan Pantic,m,3,Belgrade,2
+57,Marija Marjanovic,f,3,Not specified,2
+58,Tamiza Tudor,f,6,Not specified,2
+59,Marija St,f,3,Belgrade,2
+60,Inyang Olumide,m,6,Eket,0
+61,Jelena Stojiljkovic,f,3,Not specified,2
+62,Rade Kotlajic,m,2,Kragujevac,2
+63,Zorica Orbovic,f,6,Belgrade,2
+64,Milos Dobric,m,2,Belgrade,2
+65,Vladimir Jelic,m,2,Belgrade,2
+66,Sinisa Sladojevic,m,6,Gradiska,2
+67,Jelena Bukarac,f,2,Belgrade,2
+68,Sara Arsic,f,3,Vranje,2
+69,Anastasija Gosnjic,f,6,Ljig,2
+70,Jovana Nikolovski Niki,f,4,Belgrade,2
+71,Ana Bojic,f,4,Belgrade,2
+72,Roman Maliushkin,m,5,Angarsk,2
+73,Aleksa Kovacevic,m,3,Gornji Milanovac,2
+74,Dusica Bralovic,f,1,Belgrade,2
+75,Ivana Popovic,f,4,Not specified,2
+76,Tamara Bakic,f,3,Indjija,2
+77,Aleksandra Djordjevic,f,3,Jagodina,2
+78,Sanja Krcunovic,f,6,Danilovgrad,2
+79,Natasa Martinovic,f,3,Valjevo,2
+80,Biljana Manojlovic,f,4,Zrenjanin,0
+81,Predrag Pilipovic,m,3,Belgrade,2
+82,Andrea Grbic,f,3,Banja Luka,2
+83,Dragana Tutunovic,f,3,Not specified,2
+84,Nikola Jovanovic,m,2,Belgrade,2
+85,Sara Vuleta,f,3,Belgrade,2
+86,Lara Irene Breedlove,f,6,Chanhassen,2
+87,Tina Mastilovic,f,6,Belgrade,2
+88,Nadja Aleksic,f,1,Belgrade,2
+89,Natalija Marin,f,4,Belgrade,2
+90,Aida,f,3,Valjevo,2
+91,Aleksa Tasic,m,3,Leskovac,2
+92,Sasa Skanata,m,4,Not specified,0
+93,Milica Govedarica,f,4,Belgrade,2
+94,Irina Sevic,f,6,Belgrade,2
+95,Jelisaveta Fotic,f,4,Belgrade,2
+96,Djordje Lazic,m,2,Belgrade,2
+97,Elena Dzipunova,f,6,Skopje,2
+98,Stefan Popadic,m,1,Belgrade,2
+99,Andjelija Lazov,f,6,Belgrade,2
+100,Marija Knezevic,f,1,Belgrade,2
+101,Marija Seslija,f,1,Belgrade,2
+102,Jana Boskovic,f,6,Belgrade,0
+103,Vanja Nenadovic,f,4,Belgrade,0
+104,Bosko Adzic,m,4,Belgrade,2
+105,Sofija Lukendic,f,4,Belgrade,2
+106,Nevena Mijatovic,f,2,Belgrade,2
+107,Nikola Stankovic,m,4,Belgrade,2
+108,Ivana Basaragin,f,3,Belgrade,2
+109,Rizqina Bsa,f,6,Surabaya,2
+110,Hana Zekovic,f,2,Belgrade,2
+111,Vladimir Stojiljkovic,m,2,Belgrade,2
+112,Jovana Ribac,f,3,Pristina,2
+113,Stefan Markovic,m,0,Belgrade,2
+114,Nevena Vujetic,f,2,Belgrade,2
+115,Pavle Peno,m,2,Belgrade,2
+116,Jovan Janjic,m,2,Belgrade,2
+117,Dusica Ristic,f,2,Belgrade,2
+118,Milena Zdravkovic,f,2,Belgrade,2
+119,Teodora Macanovic,f,2,Belgrade,2
+120,Milica Sehovac,f,3,Not specified,2
+121,Kvs Mornar,m,4,Belgrade,0
+122,Dejan Vasic,m,4,Prizren,0
+123,Aleksandra Djordjevic,f,3,Jagodina,2
+124,Jelena Krulj,f,6,Belgrade,2
+125,Ognjen Dabic,m,6,Kraljevo,2
+126,Natasa Praskalo,f,4,Pancevo,2
+127,Milos Spasic,m,4,Pancevo,2
+128,SwimBo Pkosi,m,4,Belgrade,0
+129,Ljubica Djordjevic,f,2,Nis,2
+130,Jovana Korugic,f,6,Belgrade,0
+131,Zorana Aleksic,f,3,Leskovac,2
+132,Marija Glisic,f,2,Belgrade,2
+133,Aleksandra Anja Ilic,f,2,Belgrade,2
+134,Vladana Djakovic,f,3,Banja Luka,2
+135,Tijana Jankovic,f,2,Belgrade,2
+136,Nemanja Stojanovic,m,2,Belgrade,2
+137,Nela Todorovic,f,3,Belgrade,2
+138,Uros Rakonjac,m,2,Belgrade,2
+139,Petar Kovacevic,m,2,Belgrade,2
+140,Marko Hudomal,m,2,Belgrade,2
+141,Una Miskovic,f,2,Belgrade,2
+142,Anja Simic,f,2,Belgrade,2
+143,Tina Lovcevic,f,3,Not specified,1
+144,Milos Mandaric,m,1,Belgrade,2
+145,Ana Nikolic,f,2,Belgrade,2
+146,Luka Radosavljevic,m,2,Belgrade,2
+147,Stefan Miloradovic,m,2,Belgrade,1
+148,Mila Zivkovic,f,2,Belgrade,2
+149,Andrea Puskas,f,2,Belgrade,2
+150,Matej Tomic,m,0,Belgrade,2
+151,Milica Jelic,f,6,Belgrade,2
+152,Lucia Kajanova,f,5,Komarno,2
+153,Kristina Filipovic,f,2,Belgrade,2
+154,Jovana Ormanovic,f,3,Valjevo,2
+155,Marina Markovic,f,0,Belgrade,2
+156,Anastasija Pesic,f,3,Leskovac,2
+157,Natasa Stankovic,f,1,Belgrade,2
+158,Stefi Petreska,f,6,Prilep,2
+159,Ma MoCer,f,5,Monserrat,2
+160,Aleksandar Sladojevic,m,6,Gradiska,2
+161,Aleksa Marusic,m,6,Belgrade,2
+162,Violeta Saptovic,f,6,Not specified,0
+163,Valerija Savicevic,f,6,Moscow,1
+164,Rebecca Antinori,f,5,Varese,2
+165,Milica Jeremic,f,6,Belgrade,2
+166,Tanja Bogdanovic,f,6,Belgrade,0
+167,Sara Giacopello,f,5,Prato,2
+168,Ines Alibou,f,5,Toulon,2
+169,Ana Z. Teodosijevic,f,0,Not specified,2
+170,Aldo Lopez,m,6,Atambua,2
+171,Dragana Borjan,f,0,Belgrade,2
+172,Jelena Rodic,f,2,Belgrade,2
+173,Milija Tesic,m,0,Bajina Basta,2
+174,Stefan Tesla Jovanovic,m,0,Kragujevac,2
+175,Goca Dunjic Majstorovic,f,6,Kraljevo,1
+176,Teodora Cepenjor,f,3,Majdanpek,2
+177,Ana Stefanovic,f,0,Belgrade,2
+178,Katarina Avramovic,f,3,Smederevo,2
+179,Natali Abramenko,f,6,Zaraysk,2
+180,Ivan Rovic,m,2,Belgrade,2
+181,Anna Mariya Makarova,f,6,Tbilisi,2
+182,Bozidar Race,m,4,Belgrade,1
+183,Stefan Vukcevic,m,0,Svilajnac,2
+184,Steeven Huglo,m,5,Not specified,0
+185,Bozana Dugonjic,f,6,Gradiska,2
+186,Ana Vulic,f,3,Jagodina,2
+187,Snezana Ilic,f,1,Belgrade,2
+188,Jovana Dudukovic,f,4,Sombor,2
+189,Matematicka Akademija,m,6,Not specified,0
+190,Zdravko Djokic,m,3,Not specified,0
+191,Bozana Dugonjic Kucuk,f,6,Gradiska,2
+192,Aleksa Dudukovic,m,4,Not specified,0
+193,Ilya Bokatiy,m,5,Not specified,0
+194,Yuliya Usikova,f,5,Saint Petersburg,2
+195,Vuk Novakovic,m,3,Banatsko Novo Selo,2
+196,Alexandra Apitsina,f,5,Naryan-Mar,2
+197,Milan Zivkovic,m,6,Belgrade,2
+198,Egor Nevezhin,m,5,Chelyabinsk,2
+199,Ksenija Kucuk,f,6,Belgrade,0
+200,Ana Jovicic,f,3,Paracin,2
+201,Marina Caran,f,3,Bela Crkva,2
+202,Aleksandra Pavlovic,f,6,Not specified,0
+203,Jelena Supic,f,1,Belgrade,2
+204,Nikola Novakovic,m,0,Vrsac,2
+205,Aleksa Kisic,m,4,Belgrade,0
+206,Haff MSili,m,5,Not specified,0
+207,Andrej Vibe,m,5,Saint Petersburg,2
+208,Djordje Curkovic,m,3,Belgrade,2
+209,Cvece Od Papira,f,6,Belgrade,0
+210,Andrijana Gacevic,f,4,Belgrade,0
+211,Valentina Balint,f,2,Belgrade,2
+212,Marina Matic,f,4,Novi Becej,2
+213,David Damnjanovic,m,4,Belgrade,0
+214,Olga Rybkina,f,5,Saint Petersburg,2
+215,Sophie Kropiwnicki,f,5,Lille,0
+216,Milica Vuckovic,f,4,Belgrade,0
+217,Aleksandra Jovic,f,3,Not specified,2
+218,Marija Suljagic,f,2,Belgrade,2
+219,Nikola Djuraskovic,m,2,Belgrade,2
+220,Djuro Vidovic,m,4,Belgrade,2
+221,Nenad Mirkovic,m,0,Belgrade,2
+222,Stefan Sofijanic,m,0,Belgrade,2
+223,Masa Djurisic,f,3,Belgrade,2
+224,Nikola Jelic,m,2,Belgrade,1
+225,Aleksandar Ivanovic,m,3,Belgrade,2
+226,Aleksandra Tomic,f,1,Belgrade,2
+227,Sasa Matic,m,4,Belgrade,1
+228,Tanja Jegdic,f,6,Belgrade,2
+229,Marijana Milenkovic,f,3,Jasenovo,2
+230,Petar Miljatovic Karan,m,4,Belgrade,0
+231,Matija Vesnic,m,2,Belgrade,2
+232,Ana Jovovic,f,4,Not specified,0
+233,Alena Mezentseva,f,5,Saint Petersburg,2
+234,Igor Boskovic,m,6,Belgrade,2
+235,Tamara Dudukovic,f,4,Sombor,2
+236,Nikola Rajic,m,0,Kragujevac,2
+237,Son Goku,m,1,Belgrade,0
+238,Milos Selakovic,m,3,Uzice,2
+239,Nemanja Topalovic,m,0,Sabac,2
+240,Jovana Spasenovic,f,0,Brcko,2
+241,Zinaida Butovskaya,f,6,Moscow,2
+242,Milos Vidakovic,m,6,Belgrade,2
+243,Sandra Kostic,f,3,Not specified,1
+244,Rut Campos Jimenez,f,5,Ciudad Real,2
+245,Akshay Gurudath,m,6,Bangalore,2
+246,Tamara Ninkovic,f,2,Belgrade,2
+247,Nastya Volkova,f,5,Murmansk,2
+248,Branko Milicic,m,0,Zvornik,2
+249,Nikola Adzic,m,4,Belgrade,2
+250,Leire Segurola,f,5,Irun,2
+251,Sonja Angelovski,f,2,Belgrade,2
+252,Katarina Stekic,f,3,Not specified,2
+253,Biljana Zecic,f,3,Not specified,2
+254,Mihailo Mrvosevic,m,0,Belgrade,2
+255,Julia Kostinikova,f,5,Saint Petersburg,2
+256,Marija Delibasic,f,2,Belgrade,2
+257,Nedeljko Dudukovic,m,4,Sombor,0
+258,Bozana Kucuk,f,6,Gradiska,2
+259,Jovana Pavlovic,f,3,Bratunac,2
+260,Ana Di,f,2,Belgrade,2
+261,Milica Matorcevic,f,3,Pudarci,2
+262,Ric Nik,m,1,Not specified,0
+263,Jefimija Zivkovic,f,6,Novi Sad,2
+264,Edoardo von Morgen,m,5,Borgomanero,2
+265,Ana Vulic,f,3,Jagodina,2
+266,Tamara Cvorovic,f,6,Belgrade,2
+267,Marijana Markovic,f,2,Belgrade,2
+268,Jovica Kilibarda,m,2,Belgrade,2
+269,Nikola Milicevic,m,2,Belgrade,2
+270,Dragisa Babic,m,6,Gradiska,0
+271,Milos Lukic,m,4,Belgrade,2
+272,Slaven Pavlekic,m,4,Belgrade,2
+273,Nada Kucuk,f,6,Not specified,2
+274,Sara Tea S Popovic,f,4,Belgrade,2
+275,Milenko Jovanovic,m,3,Uzice,2
+276,Vuk Kremic,m,3,Not specified,2
+277,Radovan Ilic,m,4,Belgrade,2
+278,Filip Waszczuk,m,5,Chelm,2
+279,Dusan Dragutinovic,m,3,Pancevo,2
+280,Vladisava Dudukovic,f,4,Sombor,2
+281,Aleksandar Djukic,m,0,Belgrade,2
+282,Luka Kumburovic,m,3,Belgrade,2
+283,Killmister Markovic,m,6,Skopje,2
+284,Milan Ignjic,m,6,Novi Sad,2
+285,Nenad Djalovic,m,0,Svilajnac,2
+286,Nikola Jrr Dramicanin,m,2,Belgrade,1
+287,Aleksandra Divljakovic,f,3,Krupanj,2
+288,Kire Nedelkovski,m,6,Skopje,2
+289,Marija Pesic,f,2,Belgrade,2
+290,Anna Ferrater Roca,f,5,Reus,2
+291,Jana Milosavljevic,f,2,Belgrade,2
+292,Nikola Damjanovic,m,3,Belgrade,2
+293,Aleksandar Curcic,m,2,Belgrade,2
+294,Andjela Zebic,f,4,Belgrade,2
+295,Nikola Babic,m,0,Banja Luka,2
+296,Nevena Lukic,f,4,Belgrade,2
+297,Marta Mandaric,f,1,Belgrade,2
+298,Anisia Jovanovski,f,6,Belgrade,2
+299,Ivan Zivotic,m,2,Belgrade,2
+300,Jovan Nicic,m,1,Belgrade,2
+301,Milan Ilic,m,3,Leskovac,2
+302,Ana Kostic,f,1,Belgrade,2
+303,Tamara Kamberovic,f,2,Belgrade,2
+304,Nikola Nikolic,m,0,Vrsac,2
+305,Nina Stefanovic,f,6,Belgrade,2
+306,Ivan Jimmy Vukovic,m,6,Belgrade,2
+307,Miljana Stojanovic,f,0,Belgrade,2
+308,Nemanja Dacic,m,6,Krusevac,2
+309,Sinisa Lukic,m,3,Sarajevo,2
+310,Sonja Sinobad,f,3,Belgrade,2
+311,Marina Vukeljic,f,1,Belgrade,2
+312,Williams Nazario,m,4,Not specified,2
+313,Viktorija Rja,f,6,Belgorod,2
+314,Filip Cvejic,m,0,Belgrade,2
+315,Jelena Sreckovic,f,1,Belgrade,2
+316,Nikola Danev,m,4,Krusevac,2
+317,Nemanja Neskovic,m,0,Svilajnac,2
+318,Pietro Gandossi,m,5,Bergamo,1
+319,Lola Ponorac,f,2,Belgrade,2
+320,Nikola Sadovek,m,3,Subotica,2
+321,Milica Rodic,f,1,Belgrade,2
+322,Jelena Petrovic,f,2,Belgrade,2
+323,Marija Mikic,f,3,Smederevska Palanka,2
+324,Bojana Djuka,f,3,Belgrade,2
+325,Katya Protsko,f,6,Not specified,2
+326,Jelena Sapic,f,4,Belgrade,0
+327,Dragana Govedarica Kostopoulos,f,6,Belgrade,2
+328,Aleksandar Ilic,m,4,Kragujevac,1
+329,Dusan Vondracek,m,2,Belgrade,2
+330,Milos Budimir,m,4,Belgrade,2
+331,Bojan Pocuca,m,4,Belgrade,2
+332,Milica Gruic,f,4,Belgrade,2
